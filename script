@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#FileChecker
+
+filename=$1
+
+FileNamePlaceholder=Q1RGe0VuX2RAbnNfbWVkX2tyeXB0b18wU0lOVF9vZ19hbmFseXNlX04xYzNfdzBya30=
+
+if [ -f "$filename" ]; then
+echo "Filen du sjekker etter finnes på systemet, et eller annet sted!"
+else
+echo "Filen har forsvunnet i skyen"
+fi
