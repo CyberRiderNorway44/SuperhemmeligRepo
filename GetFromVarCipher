@@ -1,0 +1,35 @@
+#Secure Cipher utviklet av TheGreatEncryptionTeam
+
+#Cleartext
+s = 'Your'
+n = 'Skill'
+b = 'Can Be found in the '
+c = 'circle of life from '
+i = 'Youre'
+o = ''
+p = 'Heart Can be found'
+y = 'under the'
+q = 'one that is'
+m = 'To find by the'
+v = 'road by the sea'
+
+#Cipher algo
+print(len(s))
+print(len(n))
+print(len(b))
+print(len(c))
+print(len(i))
+print(len(o))
+print(len(n))
+print(len(p))
+print(len(o))
+print(len(y))
+print(len(q))
+print(len(q))
+print(len(n))
+print(len(o))
+print(len(m))
+print(len(v))
+print(len(n))
+
+#Ciphertext in Output
